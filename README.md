@@ -1,101 +1,113 @@
-# Pitch: SafeEPI no Rio Innovation Week 2025  
-**Data:** 12 a 15 de agosto de 2025 – **Local:** Pier Mauá, Rio de Janeiro  
-**Trilha sugerida:** Governança / Empreendedorismo / Deep Tech  
+
+## ✨ Slogans para SafeEPI
+1. **"SafeEPI: cada EPI, um registro à prova de falhas."**
+2. **"Tecnologia que protege. Evidência que convence."**
+3. **"Transformamos EPIs em dados. E dados em segurança."**
+4. **"Legal, digital e inviolável — esse é o novo EPI."**
+5. **"Protegendo vidas, salvando empresas."**
+
 
 ---
 
-## 1. Introdução poderosa  
-> “Você sabia que, só em 2024, o Brasil registrou 724.228 acidentes de trabalho, segundo dados consolidados do e‑Social, INSS e Observatório SST (MPT+OIT), com crescimento de cerca de 11% sobre 2023?”  
-A maioria (74,3 %) desses acidentes foi do tipo típico, 24,6 % em trajetos, e apenas 1 % por doenças ocupacionais.  
-Esses números geram impacto humano e econômico grave: estima-se que acidentes e doenças ocupacionais custem 4 % do PIB (R$ 468 bi/ano).
+# 🎤 **Pitch de 3 minutos — SafeEPI**
 
 ---
 
-## 2. Identificação do problema  
-Por que estamos falando sobre EPI?  
-Porque a ausência ou uso incorreto de Equipamentos de Proteção Individual (EPI) está presente em milhares de acidentes.  
-Mas o problema não é apenas a entrega: é a **falta de controle, rastreabilidade e auditoria eficaz.**
+### **1. Introdução**
+
+> Você sabia que, só em 2024, o Brasil registrou **724.228 acidentes de trabalho**?
+> Segundo o e-Social, INSS e o Observatório SST, esse número cresceu **11% em relação a 2023**.
+> Mas o impacto não para por aí: em 2023, foram registrados **mais de 105 mil processos trabalhistas relacionados a acidentes de trabalho**, e esse número **vem crescendo em 2024 e 2025** em diversas regiões — com aumentos de até **24%** em estados como Santa Catarina.
+> O custo estimado de acidentes e doenças ocupacionais chega a **R\$ 468 bilhões por ano**, o equivalente a **4% do PIB nacional**, desperdiçados em **afastamentos, indenizações, multas e ineficiência operacional**.
+>
+> Nesse cenário, o **SafeEPI surge para transformar perdas em prevenção, e dor em inovação.**
 
 ---
 
-## 3. Por que SafeEPI?  
-### ✅ Diferenciais legais e tecnológicos  
-- A maioria dos sistemas de entrega de EPI se baseia apenas na **NR 6** para validar as entregas.  
-- **SafeEPI vai além:** cada colaborador recebe um **certificado digital de nível avançado** no momento do cadastro — o mesmo nível de um certificado do governo.  
-- Toda entrega, validada por biometria (digital ou facial), gera um comprovante assinado **com o certificado digital do próprio colaborador**, garantindo **legalidade jurídica ampliada**.  
-- Essa entrega passa a ter respaldo não só da NR 6, mas também da **Medida Provisória 2.200-2/2001** (validação de documentos digitais) e da **Lei 14.103/2021**, ampliando a segurança legal e eliminando vulnerabilidades.
+### **1.1 Problema**
+
+Hoje, muitas empresas ainda entregam EPIs com papel e caneta, ou sistemas frágeis que não garantem rastreabilidade.
+Em um país onde a fiscalização de segurança e saúde está cada vez mais rigorosa, bastam algumas falhas no controle de EPIs para uma empresa enfrentar multas milionárias e danos irreversíveis à sua marca. 
+A falta de dados para a tomada de decisões quanto a investimentos em EPI para seu plano anual, ou para empreitadas gera gastos desnecessários, deixando o sua empresa cheio de vulnerabilidades.
+* Multas trabalhistas: a fiscalização exige comprovação documental imediata — qualquer falha pode gerar autuações de centenas de milhares de reais.
+* Ineficiência operacional: sem dados confiáveis, você acaba comprando de forma emergencial, desperdiçando estoque e atrasando processos críticos.
+*
 
 ---
 
-## 4. Inteligência de dados aplicada à segurança  
-### 🎯 Funcionalidades atuais
-- O sistema foi desenvolvido em parceria com **consultores de SST e engenheiros**, entendendo as dores reais de campo.  
-- Hoje, o SafeEPI conta com uma tela de **Progressão de Gastos**, onde o usuário pode:
-  - Selecionar o modelo de operação: **empreitada**, **anual**, **temporária**;
-  - Definir: tempo da operação, quantidade de colaboradores, tipo de serviço, matriz de EPI envolvida;
-  - Com base nessas variáveis e no **histórico de consumo da empresa**, a inteligência artificial do sistema estima uma **progressão futura dos gastos com EPI**.
-- Essa funcionalidade transforma o planejamento operacional e financeiro em algo **automatizado, preciso e orientado por dados reais**, facilitando a tomada de decisão para compras e escalas de trabalho.
+### **1.2 Solução**
+Investidores de impacto sabem: empresas que garantem segurança e bem-estar aos colaboradores atraem capital mais barato e têm valuation superior. Com mais de 720 mil acidentes de trabalho ano passado, existe uma enorme oportunidade de mercado para quem entrega eficiência e proteção de verdade. 
+
+O **SafeEPI** resolve tudo isso com:
+
+* **Certificação digital avançada** para cada colaborador, com base na MP 2.200-2/2001 e na Lei 14.103/2021.
+* **Entrega de EPI validada por biometria** — digital ou facial — com comprovante jurídico incontestável.
+* **Inteligência artificial** que prevê o consumo futuro de EPI com base no tipo de obra, tempo de operação e histórico da empresa.
+  É segurança jurídica, proteção real e eficiência financeira — tudo em uma plataforma SaaS acessível e **escalável**.
 
 ---
 
-## 5. MVP com visão clara de evolução  
-O SafeEPI nasceu como um **MVP estratégico**, focado em entrega de EPI com base legal e digital.  
-Agora, estamos prontos para escalar, e o mercado de SST oferece diversos caminhos possíveis:  
-- Integração com o **eSocial** (registro automático de entregas e afastamentos);  
-- Funcionalidades para **gestão e eleições da CIPA**;  
-- **Marketplace entre fornecedores e empresas** com base em consumo histórico e inteligência de abastecimento;  
-- **Educação e reciclagem integrada** ao histórico do colaborador (ex: bloqueio automático de entrega para quem não fez o curso obrigatório);  
-- Módulo de **gestão de riscos e incidentes** cruzando uso real de EPI com ocorrências de acidentes;  
-- **Monitoramento de validade de EPI**, com alertas e histórico completo.
+### **2. Desenvolvimento**
 
 ---
 
-## 6. Arquitetura tecnológica  
-- Backend: **Node.js + TypeScript**  
-- Frontend: **React**  
-- Armazenamento: **AWS S3**  
-- Hospedagem: **containers Docker/Kubernetes**  
-- Biometria: **Hamster Pro 2 (SecuGen)** e **Digital Persona 4500**, compatíveis com web e mobile  
-- Aplicativo **React Native** para entregas em campo, com suporte a biometria facial (ideal para obras, áreas externas ou trabalhadores itinerantes)
+### **2.1 Mercado**
+
+O mercado de EPI no Brasil movimenta **R\$ 18 bilhões por ano**, com crescimento de 5% ao ano.
+No mundo, o setor atingiu **US\$ 27,4 bilhões** em 2024, com previsão de alta de 13,3% até 2029.
+É um mercado essencial — e agora, cada vez mais digital.
 
 ---
 
-## 7. Modelo de negócio  
-- **Planos mensais escalonáveis** por:
-  - Número de colaboradores;
-  - Módulos contratados (Certificação, Inteligência de Dados, Compliance, Treinamentos etc.);
-- Modelo SaaS B2B, com suporte técnico, integração personalizada e segurança jurídica como diferencial.
+### **2.2 Modelo de Negócio**
+
+O **SafeEPI** opera em **modelo SaaS B2B modular**.
+Cada cliente escolhe os recursos que precisa, nossos recursos são separados por módulos, criando uma solução customizável e escalável, nosso primeiro módulo (MVP) é o de gestão de entregas de EPI.
 
 ---
 
-## 8. Encerramento — Chamada à ação  
-> “Imagine uma plataforma inteligente, orientada por dados e pensada desde o início para resolver problemas reais da segurança do trabalho.  
-SafeEPI entrega valor hoje, com biometria, certificação digital e legalidade jurídica comprovada.  
-E está pronto para crescer junto com o futuro do SST no Brasil.”  
-**Queremos parceiros, clientes e co-construtores. Vamos juntos construir a próxima etapa da segurança no trabalho.”
+### **2.3 Concorrência**
+Sabemos que nessa era digital já quebramos a barreira física das empresas a muito tempo, porém vale ressaltar que em nosso levantamento, nenhuma das nossas concorrentes tem sede no Rio de Janeiro, nos colocando em uma posição favorável e muito mais próxima de nossos clientes regionais.
+A maioria dos sistemas do mercado se limita à **NR 6** e planilhas manuais.
+**Nenhum deles combina IA, certificação digital com validade legal ampliada e biometria para rastreabilidade total.**
+O SafeEPI é a única solução com **trilha de auditoria imune a fraudes e juridicamente defensável.**
 
 ---
 
-## 9. Alinhamento ao tema Rio Innovation Week  
-Com o tema “**Um Olhar Através da Ética**”, o RIW 2025 discute como a tecnologia pode promover inclusão e responsabilidade social.  
-O SafeEPI entrega exatamente isso: **acesso justo à segurança no trabalho**, garantia de direitos, redução de fraudes e proteção à saúde e à vida.  
-É uma solução ética, eficiente e moderna — feita para a realidade das empresas brasileiras.
+### **3. Conclusão**
 
 ---
 
-## 📋 Resumo final  
-| Elemento        | Destaque                                                                 |
-|----------------|--------------------------------------------------------------------------|
-| Problema       | Falta de controle real sobre o uso de EPI e ausência de legalidade digital |
-| Solução        | Biometria + certificado digital + IA para gestão e previsão de gastos     |
-| MVP            | Gestão legal e rastreável de EPI com módulos ativos e planos futuros      |
-| Funcionalidade IA| Tela de progressão de gastos por operação/ano, com inteligência artificial |
-| Crescimento    | eSocial, CIPA, marketplace, educação, gestão de risco                     |
-| Tecnologia     | Node.js, React, AWS, app mobile com biometria facial                      |
-| Modelo         | SaaS escalonável por plano, colaborador e módulo contratado              |
-| Alinhamento RIW| Tecnologia ética, socialmente responsável, e baseada em evidência         |
+### **3.1 Time**
+
+Nosso time é multidisciplinar:
+Engenheiro de Segurança do Trabalho, dois desenvolvedores fullstack com experiência em infraestrutura cloud escalável, e uma consultora jurídica especialista em LGPD e direito digital.
 
 ---
 
-Muito obrigado!  
-**SafeEPI: mais do que inovador — uma solução estrategicamente pensada para salvar vidas e otimizar recursos.**
+### **3.2 Tração**
+
+Estruturamos a ideia e a apresentamos a empresas reais — clientes diretos do nosso engenheiro de segurança do trabalho.
+Ouvimos **demandas concretas**, validamos a **necessidade no campo** e percebemos uma forte **receptividade à proposta**.
+Hoje, diversas empresas **acompanham de perto o desenvolvimento do MVP** e manifestaram **interesse imediato em testar a plataforma assim que estiver disponível**.
+Esse engajamento orgânico demonstra que o SafeEPI resolve um problema latente — e que há **um mercado pronto para adoção desde o primeiro dia.**
+
+---
+
+### **3.3 Go-to-market**
+
+Estamos prontos para escalar com foco em:
+
+* Parcerias com fornecedores de EPI e **consultorias de SST**;
+* Conexão com e-social.
+*
+*
+*
+
+---
+
+> **SafeEPI é mais que uma ferramenta. É um novo padrão legal, ético e digital para a segurança do trabalho.**
+> Se você é investidor, fornecedor ou parceiro, **junte-se a nós nessa missão: proteger vidas com inteligência, rastreabilidade e respeito à lei.**
+
+
+
